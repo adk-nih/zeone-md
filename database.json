@@ -1,0 +1,74 @@
+{
+  "users": {
+    "6285754043961@s.whatsapp.net": {
+      "afkTime": -1,
+      "banned": false,
+      "afkReason": ""
+    },
+    "62882008680877@s.whatsapp.net": {
+      "afkTime": -1,
+      "banned": false,
+      "afkReason": ""
+    },
+    "6281216979240@s.whatsapp.net": {
+      "afkTime": -1,
+      "banned": false,
+      "afkReason": ""
+    },
+    "6288220195739@s.whatsapp.net": {
+      "afkTime": -1,
+      "banned": false,
+      "afkReason": ""
+    },
+    "6285718641139@s.whatsapp.net": {
+      "afkTime": -1,
+      "banned": false,
+      "afkReason": ""
+    }
+  },
+  "chats": {
+    "6285754043961@s.whatsapp.net": {
+      "setWelcome": "",
+      "setLeave": ""
+    },
+    "62815491026412-1633320127@g.us": {
+      "setWelcome": "",
+      "setLeave": ""
+    },
+    "120363041371988653@g.us": {
+      "setWelcome": "",
+      "setLeave": ""
+    },
+    "6288220195739@s.whatsapp.net": {
+      "setWelcome": "",
+      "setLeave": ""
+    }
+  },
+  "database": {},
+  "game": {
+    "math": [],
+    "family100": [],
+    "tebakgambar": [],
+    "tebakkata": [],
+    "tebakbendera": [],
+    "siapaaku": [],
+    "tebakkalimat": [],
+    "caklontong": [],
+    "susunkata": [],
+    "tekateki": [],
+    "tebakkabupaten": [],
+    "tebakkimia": [],
+    "tebaklirik": [],
+    "tebaktebakan": []
+  },
+  "absen": {},
+  "cmd": {},
+  "settings": {
+    "6285754043961@s.whatsapp.net": {
+      "available": false,
+      "composing": false,
+      "recording": false,
+      "autorespond": false
+    }
+  }
+}
